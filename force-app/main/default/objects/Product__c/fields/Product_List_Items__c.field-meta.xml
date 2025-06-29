@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Product_List_Items__c</fullName>
+    <label>Product List Items</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>Product_Family__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetName>Product_list</valueSetName>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Samsung Galaxy S24 Ultra</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Samsung Galaxy S23 FE</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>OnePlus 12</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>OnePlus Nord CE4</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Xiaomi Redmi Note 13 Pro+</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Xiaomi Redmi 13C</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Realme Narzo 70 Pro</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Vivo V30 Pro</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>iQOO Z9 5G</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Google Pixel 8</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Motorola Edge 50 Pro</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Infinix Zero 5G 2023</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Nothing Phone (2a)</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Android</controllingFieldValue>
+            <valueName>Lava Blaze 5G</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mac</controllingFieldValue>
+            <valueName>Apple iPhone 15</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Mac</controllingFieldValue>
+            <valueName>Apple iPhone 14</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>

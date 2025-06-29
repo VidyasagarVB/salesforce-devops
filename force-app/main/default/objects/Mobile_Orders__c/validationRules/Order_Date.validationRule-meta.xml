@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Order_Date</fullName>
+    <active>true</active>
+    <description>Order date should be future date not past</description>
+    <errorConditionFormula>Date__c  &gt;  TODAY()</errorConditionFormula>
+    <errorMessage>Order date should be future date not past</errorMessage>
+</ValidationRule>
