@@ -40,11 +40,7 @@
                 <default>false</default>
                 <label>Bijapur</label>
             </value>
-            <value>
-                <fullName>Jaipur</fullName>
-                <default>false</default>
-                <label>Jaipur</label>
-            </value>
+     
         </valueSetDefinition>
     </valueSet>
 </CustomField>
